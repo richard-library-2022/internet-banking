@@ -1,2 +1,2 @@
-# internet-banking
+# Internet Banking
 Internet Banking
